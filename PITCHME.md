@@ -13,7 +13,7 @@ Chatbots are for ppl who are lazy as fuck
 
 And what if i write more, will it be smaller?
 
-![alt text](pic.png =250x)
+![alt text](pic.png =20x20)
 ---
 
 # What is it 
