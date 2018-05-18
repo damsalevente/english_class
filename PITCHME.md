@@ -15,9 +15,8 @@ And what if i write more, will it be smaller?
 
  ---
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
+
    ![alt text](pic.png)
-</div>
 
 # What is it 
 
